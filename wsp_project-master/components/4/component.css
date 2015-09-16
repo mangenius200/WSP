@@ -2,13 +2,7 @@
 ============================================================
 ============================================================*/
 
-body{
- background-image: url(../../images/mt.jpg);   
-    color: white;
-    background-size: cover;
-    
-}
-
-a{
- color:white;   
+div{
+    float: left;
+    width: 25%;
 }

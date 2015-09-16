@@ -1,4 +1,18 @@
 /* Component Stylesheet 
 ============================================================
 ============================================================*/
+section{
+    width: 1200px;
+    border: 1px solid red;
+    overflow: auto;
+    margin: 0 auto;
+}
 
+article{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    border:1px solid green;
+    width: 330px;
+    float: left;
+}
