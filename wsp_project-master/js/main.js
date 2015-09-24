@@ -23,4 +23,14 @@ window.addEventListener('load',function(){
         },delay*7
     );
 
+
+
+
+});
+
+
+var flkty = new Flickity( '.main-gallery', {
+    // options
+    cellAlign: 'left',
+    contain: true
 });

@@ -6,9 +6,34 @@ body{
  background-image: url(../../images/mt.jpg);   
     color: white;
     background-size: cover;
-    
+    position: relative;
+    background-repeat: no-repeat;
 }
 
 a{
- color:white;   
+ color:white;
+}
+
+ul{
+
+    position: absolute;
+    left: 80%;
+    top: 40px;
+    list-style-type: none;
+}
+
+.active{
+    background: white;
+    padding: 6px;
+}
+
+.active a {
+    color: deepskyblue;
+}
+
+h2{
+    position: absolute;
+    left: 100px;
+    top: 50px;
+
 }
