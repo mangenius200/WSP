@@ -33,7 +33,16 @@ ul{
 
 h2{
     position: absolute;
-    left: 100px;
-    top: 50px;
+    left: 400px;
+    top: 150px;
+    font-size: 60px;
+
+}
+
+h3{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+    font-size: 60px;
 
 }
